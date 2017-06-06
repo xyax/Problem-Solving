@@ -1,0 +1,11 @@
+O input é da forma:
+
+10 Sena
+5 Toni
+14 Jonecas
+18 Sena
+20 Pulapula
+17 Jonecas
+
+Representa uma corrida, onde o inteiro de cada linha é o numero de segundos que passaram desde o inicio da corrida até ao final da volta em questão. Por exemplo: Sena terminou a sua primeira volta aos 10s e a sua segunda volta aos 18s (a sua volta mais rápida foi a segunda com o tempo de 8s).
+Imprime a lista de todos os corredores que fizeram a volta mais rápida.

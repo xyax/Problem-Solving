@@ -1,0 +1,10 @@
+input da forma:
+
+5
+# ###
+#  R#
+#  # 
+ # ##
+## ##
+
+Partindo da posição onde está R, num labirinto de N por N, qual é o custo do caminho mais curto para cegar a um dos limites podendo apenas caminhar nas posições ortogonais que tenham ' '? (N é o inteiro dado no input antes do labirinto).
